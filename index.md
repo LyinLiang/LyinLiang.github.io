@@ -1,7 +1,6 @@
 ---
 layout: single
 author_profile: true
-title: "梁书棋 | 个人主页"
 ---
 
 欢迎来到我的个人主页。
