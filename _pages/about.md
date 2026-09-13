@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 layout: single
 author_profile: true
 title1: "关于我"
