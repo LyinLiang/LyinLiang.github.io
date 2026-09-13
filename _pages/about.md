@@ -1,7 +1,10 @@
 ---
 title: 关于我
 permalink: /about/
+layout: single
+author_profile: true
 ---
+
 # 关于我
 
 我是梁书棋，周口师范学院软件工程专业本科生。
