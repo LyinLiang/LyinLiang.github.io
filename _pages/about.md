@@ -2,7 +2,10 @@
 permalink: /
 layout: single
 author_profile: true
+title1: "关于我"
 ---
+
+周口师范学院2024级软件工程在读学生
 
 ## 教育背景
 **周口师范学院 | 软件工程 | 全日制本科**
