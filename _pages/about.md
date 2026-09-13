@@ -1,5 +1,4 @@
 ---
-title: 关于我
 permalink: /
 layout: single
 author_profile: true
